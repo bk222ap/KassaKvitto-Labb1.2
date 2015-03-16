@@ -1,0 +1,7 @@
+H:\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.dll.config
+H:\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.dll
+H:\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.pdb
+H:\MyValuableCalculator\MyValuableCalculator\bin\AspNet.ScriptManager.jQuery.dll
+H:\MyValuableCalculator\MyValuableCalculator\obj\Debug\KassaKvitto.csprojResolveAssemblyReference.cache
+H:\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.dll
+H:\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.pdb

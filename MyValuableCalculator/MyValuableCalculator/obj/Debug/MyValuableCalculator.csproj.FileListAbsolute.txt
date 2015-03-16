@@ -1,0 +1,7 @@
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.dll.config
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.dll
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.pdb
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.csprojResolveAssemblyReference.cache
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.dll
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.pdb
+c:\users\mr.b\documents\visual studio 2013\Projects\MyValuableCalculator\MyValuableCalculator\bin\AspNet.ScriptManager.jQuery.dll
